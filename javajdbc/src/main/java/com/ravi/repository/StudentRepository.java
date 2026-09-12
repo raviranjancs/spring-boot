@@ -10,9 +10,9 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 
 public class StudentRepository {
-    String url = "jdbc:postgresql://ep-dawn-hill-b3egy1ni-pooler.c-4.ap-southeast-1.aws.neon.tech/neondb?user=neondb_owner&password=npg_TJExOzfWS5V9&sslmode=require&channelBinding=require";
-    String username = "neondb_owner";
-    String password = "npg_TJExOzfWS5V9";
+    String url = "DATABASSE_URL";
+    String username = "DATABASE_USERNAME";
+    String password = "DATABASE_PASSWORD";
 
     public void createStudent(){
         try{

@@ -450,8 +450,7 @@ Spring Boot REST API
    ↓
 Spring Data JPA / Hibernate
 ```
-Project Notes: https://drive.google.com/drive/u/1/folders/1ECb5axrPd-RTDA8K4T-EpG0RJHXYWoFe
-
+Project Notes: https://drive.google.com/file/d/10bno5ewaU87bLQCU_T2UGcKxdjY6vIdB/view?usp=sharing
 ## 👨‍💻 Author
 
 **Raviranjan Kumar**
